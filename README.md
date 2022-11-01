@@ -4,6 +4,10 @@ Citi Bike is a bike sharing company with operations in New York. Data from 2013 
 
 Tableau Public Link: https://public.tableau.com/app/profile/joey.eikens/viz/citi_bike_16663689497290/Story1?publish=yes
 
+<p align="center">
+  <img src="Images/dashboard_image.png" />
+</p>
+
 ## Analysis
 
 ### Member vs Casual
